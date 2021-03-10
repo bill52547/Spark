@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="859e429b-acbd-414a-9945-6ce272394105" name="sh-recon-remote">
+        <fileTransfer accessType="SFTP" host="192.168.1.213" port="22" sshConfigId="012bdf4f-787a-4bd5-b6ad-5b5fec25b10e" sshConfig="pitechrecon0@192.168.1.213:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
