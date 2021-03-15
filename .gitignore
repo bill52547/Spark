@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Data Files
+*.bin
+*.json
+*.hdf5
+*.h5
+
+# tests
+tests
+
+# jupyter 
+*.ipynb
